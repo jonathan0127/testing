@@ -2,6 +2,7 @@
 using namespace std;
 int a[10005];
 int n, k;
+//change test
 bool check(int s){
  
     int cnt = 1, plu = 0;
