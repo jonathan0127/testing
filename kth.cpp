@@ -17,6 +17,7 @@ bool check(int s){
  
     return(cnt>=k);
 }
+
  
 signed main() {
     ios_base::sync_with_stdio(0);
